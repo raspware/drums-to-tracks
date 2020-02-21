@@ -7,4 +7,4 @@ I developed this as I tend to write my initial drums of a song using [TuxGuitar]
 
 ## How to use
 
-Download the contents of the `dist` folder and drag your MIDI file onto the `Raspware.DrumsToTracks.exe` file. Sit back, relax, take a sip of coffee 😎. The extracted drums version of the MIDI file will be placed in the same directory as the original MIDI and will start with the text `(Drums)`.
+Download the contents of the `dist` folder and drag your MIDI file onto the `Raspware.DrumsToTracks.exe` file. Sit back, relax and take a sip of coffee 😎. The extracted drums version of the MIDI file will be placed in the same directory as the original MIDI and will start with the text `(Drums)`.
