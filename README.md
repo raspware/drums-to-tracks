@@ -1,6 +1,9 @@
 # Drums to Tracks!
 
-A simple MIDI tool that extracts the drum notes and places them in their own tracks. I developed this as I tend to write my initial drums using [TuxGuitar](http://www.tuxguitar.com.ar/) with all drums on a single track. However, when importing this into my chosen DAW [Cakewalk](https://www.bandlab.com/products/cakewalk) I like to have all parts of the drums on separate tracks. So rather than manually selecting, moving, copying, pasting notes and creating loads of tracks in Cakewalk, I decided to make this tool!
+This is a simple MIDI tool that extracts the drum notes and places them on their own track (not to mention adding a little human-touch to any drum notes that are not a snare or bass drum).
+
+## Why?
+I developed this as I tend to write my initial drums of a song using [TuxGuitar](http://www.tuxguitar.com.ar/) on a single drum track. However, when importing this into my chosen DAW ([Cakewalk](https://www.bandlab.com/products/cakewalk)) I like to have all parts of the drums separated on individual tracks (as I can then apply all kinds of effects on them individually). So, rather than manually selecting, moving, copying, pasting notes (on the piano-roll) and creating loads of tracks in Cakewalk, I decided to make a tool to do it for me!
 
 ## How to use
 
